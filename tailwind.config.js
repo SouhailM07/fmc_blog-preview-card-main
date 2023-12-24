@@ -9,6 +9,9 @@
         Black: "#1C1C1C",
       },
     },
+    screens: {
+      sm: "400px",
+    },
   },
   plugins: [],
 };
